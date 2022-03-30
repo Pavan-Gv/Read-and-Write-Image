@@ -73,13 +73,17 @@ cv2.waitKey(0)
 ![Reading](https://user-images.githubusercontent.com/94827772/160898237-e27db2e9-3f56-4bba-a4a4-4e5e7460afb0.png)
 
 ### ii)Write the image
+![Writing](https://user-images.githubusercontent.com/94827772/160898339-74189789-3d79-47d4-8fcd-a2e1179e238f.png)
 
 ### iii)Shape of the Image
+![Shape](https://user-images.githubusercontent.com/94827772/160898376-e7a45d73-7485-4185-a5c5-3269f64d471f.png)
 
 ### iv)Access rows and columns
+![AccRows colms](https://user-images.githubusercontent.com/94827772/160898414-6707590d-2785-4b90-83df-900792d98295.png)
 
 
 ### v)Cut and paste portion of image
+![Accessing](https://user-images.githubusercontent.com/94827772/160898433-0a14380b-324d-49ef-9644-ef0f2fcf3766.png)
 
 
 ## Result:
